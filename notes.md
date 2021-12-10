@@ -10,6 +10,8 @@
 
 - [有限集合の定義と選択公理](math/definitions_of_finite.pdf)
 
+    様々な有限の定義や，その間の関係について．
+
     - [Math Advent Calendar 2021](https://adventar.org/calendars/6146), 11日目の記事
     - 2021/12/11: 公開
 
