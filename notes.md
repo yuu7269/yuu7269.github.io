@@ -8,6 +8,11 @@
 
     - 2021/12/03: 公開
 
+- [有限集合の定義と選択公理](math/definitions_of_finite.pdf)
+
+    - [Math Advent Calendar 2021](https://adventar.org/calendars/6146), 11日目の記事
+    - 2021/12/11: 公開
+
 ---
 
 [ホームに戻る](index.md)
