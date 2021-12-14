@@ -1,5 +1,4 @@
 theme: jekyll-theme-cayman
 google_analytics: UA-214542155-1
-url: "https://yuu7269.github.io"
 plugins:
   - jekyll-sitemap
