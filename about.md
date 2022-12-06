@@ -4,7 +4,7 @@
 - Twitter: [@hyutw](https://twitter.com/hyutw)
 - Mathtodon: [@hyumt@mathtod.online](https://mathtod.online/@hyumt)
 
-圏論，位相空間論，数学基礎論に興味があります．
+圏論，位相空間論，数学基礎論，Galois理論に興味があります．
 
 ---
 
