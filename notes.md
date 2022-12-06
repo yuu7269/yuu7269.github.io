@@ -17,16 +17,23 @@
 
 - [可分距離空間はパラコンパクトである](math/separable_metric_space_paracompact.pdf)
 
-    ZF上で可分距離空間がパラコンパクトであることについて
+    ZF上で可分距離空間がパラコンパクトであることについて．
 
     - 2021/12/14: 公開
 
 - [エンド](math/end.pdf)
 
-    エンドについて
+    エンドについて．
 
     - 2022/02/21: 公開
     - 2022/02/24: 更新
+
+- [Wallmanコンパクト化](math/wallman_compactification.pdf)
+
+    Wallmanコンパクト化について．
+
+    - [Math Advent Calendar 2022](https://adventar.org/calendars/7662), 7日目の記事
+    - 2022/12/07: 公開
 
 ---
 
