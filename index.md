@@ -4,10 +4,6 @@
 
 プロフィールなど
 
-## [Posts](posts.md)
-
-ブログや日記など
-
 ## [Notes](notes.md)
 
 PDFなど
