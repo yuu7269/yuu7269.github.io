@@ -35,6 +35,13 @@
     - [Math Advent Calendar 2022](https://adventar.org/calendars/7662), 7日目の記事
     - 2022/12/07: 公開
 
+- [同値関係](math/equivalence_relation.pdf)
+
+    圏論における同値関係について．
+
+    - [圏論 Advent Calendar 2023](https://adventar.org/calendars/8591), 20日目の記事
+    - 2023/12/20: 公開
+
 ---
 
 [ホームに戻る](index.md)
