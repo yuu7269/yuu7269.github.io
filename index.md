@@ -22,3 +22,4 @@ PDFなど
 - 2022/02/21: [エンド (pdf)](math/end.pdf) を公開しました
 - 2022/12/07: [Wallmanコンパクト化 (pdf)](math/wallman_compactification.pdf) を公開しました
 - 2023/12/20: [同値関係 (pdf)](math/equivalence_relation.pdf) を公開しました
+- 2024/02/08: 最終更新日
