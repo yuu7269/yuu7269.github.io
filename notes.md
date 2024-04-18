@@ -42,6 +42,12 @@
     - [圏論 Advent Calendar 2023](https://adventar.org/calendars/8591), 20日目の記事
     - 2023/12/20: 公開
 
+- [開基とsheaf](math/bases_and_sheaves.pdf)
+
+    sieve を用いて sheaf を定義し，Kan 拡張を用いて開基上の sheaf を位相空間上の sheaf に拡張する．最後に，開基上の sheaf の圏と位相空間上の sheaf の圏が圏同値 であることを確認する．
+
+    - 2024/04/18: 公開
+
 ---
 
 [ホームに戻る](index.md)
